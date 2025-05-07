@@ -1,0 +1,1 @@
+A mini-game in which the player can drag cubes and build a tower out of them. Cubes can be placed on top of each other with animation, and also thrown out of the tower into a special hole. The game includes animations, comments on actions.
